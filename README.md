@@ -7,7 +7,7 @@ Follow these exact steps to clone, configure, and execute this web interface loc
 ### Prerequisites
 Make sure you have **Python 3.x** installed on your system.
 
-### 1. Set Up Your Project Folder
+### Set Up Your Project Folder
 Navigate to your project container directory inside your terminal:
 
 ```bash
