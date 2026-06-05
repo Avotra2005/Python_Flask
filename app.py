@@ -105,7 +105,7 @@ def logout():
     session.clear()
     flash("Logged out successfully.", "info")
     return redirect(url_for('login'))
-
+# --- RUN APP ON PUB AND PRIVATE --
 if __name__ == '__main__':
     init_db()
     app.run(host='0.0.0.0', port=5000)
