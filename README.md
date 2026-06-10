@@ -7,9 +7,7 @@ https://hub.docker.com/repository/docker/avotraader/login-flask/general
 ## try to use the App on 
 
 https://python-flask-yluf.onrender.com
-username:user
-password:user
-or create a user 
+Try to Create a user 
 and login with it
 
 ## Installation and Local Setup
